@@ -4,8 +4,10 @@
 <!--[if IE 8]>         <html class="lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html> <!--<![endif]-->
 <head>
-  <meta charset="utf-8" />
+  <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
   <title>Global Hunger Index</title>
   <meta name="description" content="Global Hunger Index 2015">
 
@@ -15,17 +17,40 @@
 
 
   <script src="../../scripts/modernizr.js"></script>
+  
+  <meta property="og:url"          content="http://ghi.ifpri.org" />
+  <meta property="og:title"        content="Global Hunger Index 2015" />
+  <meta property="og:description"  content="The Global Hunger Index (GHI) is a tool designed to comprehensively measure and track hunger globally, regionally, and by country.1 Each year, the International Food Policy Research Institute (IFPRI) calculates GHI scores in order to assess progress, or the lack thereof, in decreasing hunger. The GHI is designed to raise awareness and understanding of regional and country differences in the struggle against hunger. By calling attention to the issue, we hope that the GHI will trigger action to reduce hunger around the world." />
+  <meta property="og:image"        content="http://ghi.ifpri.org/images/ghi-share.png" />
 
-  <link rel="shortcut icon" href="../../images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="57x57" href="../../images/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="../../images/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="../../images/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="../../images/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="../../images/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="../../images/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="../../images/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="../../images/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="../../images/apple-touch-icon-180x180.png">
+  
+  <meta name="application-name" content="2015 Global Hunger Index">
+  <meta name="msapplication-TileColor" content="#333333">
+  <meta name="msapplication-TileImage" content="../../images/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="icon" sizes="192x192" href="../../images/android-chrome-192x192.png">
+  <link rel="icon" sizes="16x16" href="../../images/favicon.ico">
 </head>
 <body>
+  <!-- For nomad URL preview -->
+  <img src="../../images/ghi-share.png" class="hide">
 
   <nav class="top-bar" data-topbar role="navigation">
     <ul class="title-area">
       <li class="name">
         <h1><a href="../../">
-            <img src="../../images/ghi.svg" onerror="this.src='../../images/ghi.png'" alt="Global Hunger Index 2015">
-            <span>Global Hunger Index 2015</span>
+            <img src="../../images/ghi.svg" onerror="this.src='../../images/ghi.png'" alt="2015 Global Hunger Index">
+            <span>2015 Global Hunger Index</span>
           </a></h1>
       </li>
       <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
@@ -35,14 +60,14 @@
       <ul class="right">
         <li class="has-dropdown"> <a href="#">Language</a>
           <ul class="dropdown">
-            <li class="active"><a href="#">English</a></li>
-            <li><a href="#">German</a></li>
+            <li class="active"><a href="../..//">English</a></li>
+            <li><a href="../../de/">German</a></li>
           </ul>
         </li>
       </ul>
       <!-- Left Nav Section -->
       <ul class="left">
-        <li><a href="../../trends/">Trends of Hunger</a></li>
+        <li><a href="../../trends/">Hunger Trends</a></li>
         <li><a href="../../methodology/">Methodology</a></li>
         <li><a href="../../results/">Results</a></li>
         <li><a href="../../about/">About</a></li>
@@ -53,6 +78,13 @@
 
   
 <section id="country-info" class="alarming">
+
+  <div  id="main-map" class="row collapse full-width">
+    <div id="map-application" class="large-12 columns">
+      <div id="map" class="map"></div>
+    </div>
+  </div>
+  
   <div class="row">
     <div class="large-12 columns">
       <ul class="breadcrumbs">
@@ -65,17 +97,18 @@
     <h1 class="large-12 columns">Zambia</h1>
   </div>
   
-  <div class="row collapse full-width">
-    <!-- map goes here -->
-  </div>
-  
   <div id="summary" class="row">
     <div class="large-12 columns"> 
-      <p class="severity">Zambia has a Global Hunger Index score of <strong>41.1</strong> in 2015.</p>
-      <p id="hunger-level"><em>Hunger level:</em> <strong>Alarming</strong></p>
+      
+      
+      <p class="severity">The 2015 GHI Score for Zambia is <strong>41.1</strong>.</p>
+      
+
+      <p id="hunger-level"><em>Level</em> <strong>Alarming</strong></p>
+      
 
       
-        <p id="score-value"><em>Score evolution:</em> <strong class="down"><i class="fi-arrow-down"></i> -5.6 points </strong> (46.7 in 2005)</p>
+        <p id="score-value"><em>Evolution</em> <strong class="down"><i class="fi-arrow-down"></i> -5.6 points </strong> (46.7 in 2005)</p>
       
     </div>
   </div>
@@ -114,26 +147,34 @@
   </div>
 
   <div class="row">    
-    <h3 class="large-12 columns">Evolution from 1990 to 2015</h3>
+    <h3 class="large-12 columns"></h3>
   </div>
   <div class="row">
-    <div class="medium-6 columns">
-      <h4>Proportion of undernourished in population (%)</h4>
-      <canvas id="chart-undernourished" width="auto" height="250px"></canvas>
+    <div class="medium-6 small-12 columns">
+      <div>
+        <h4>Proportion of undernourished in population (%)</h4>
+        <canvas id="chart-undernourished" width="auto" height="250px"></canvas>
+      </div>
     </div>
-    <div class="medium-6 columns">
+    <div class="medium-6 small-12 columns">
+    <div>
       <h4>Prevalence of stunting in children under five years (%)</h4>
       <canvas id="chart-stunting" width="auto" height="250px"></canvas>
     </div>
+    </div>
   </div>
   <div class="row">
-    <div class="medium-6 columns">
-      <h4>Under five mortality rate (%)</h4>
-      <canvas id="chart-mortality" width="auto" height="250px"></canvas>
+    <div class="medium-6 small-12 columns">
+      <div>
+        <h4>Under five mortality rate (%)</h4>
+        <canvas id="chart-mortality" width="auto" height="250px"></canvas>
+      </div>
     </div>
-    <div class="medium-6 columns">      
-      <h4>Prevalence of wasting in children under five years (%)</h4>
-      <canvas id="chart-wasting" width="auto" height="250px"></canvas>
+    <div class="medium-6 small-12 columns">
+      <div>     
+        <h4>Prevalence of wasting in children under five years (%)</h4>
+        <canvas id="chart-wasting" width="auto" height="250px"></canvas>
+      </div>
     </div>
   </div>
   
@@ -152,7 +193,7 @@
       </div>
       <div class="medium-4 medium-4 columns">
         <ul class="credits">
-          <li><i class="fi-eye small"></i> <a target="_blank" href="">Source code</a></li>
+          <li><i class="fi-eye small"></i> <a target="_blank" href="https://github.com/IFPRI/Global-Hunger-Index">Source code</a></li>
           <li><i class="fi-heart small"></i> Made by <a target="_blank" href="http://jplusplus.org">Journalism++</a></li>
         </ul>
       </div>
@@ -163,7 +204,6 @@
   <!-- bower:js -->
   <script src="../../scripts/jquery.js"></script>
   <script src="../../scripts/foundation.min.js"></script>
-  <script src="../../scripts/foundation.magellan.js"></script>
   <script src="../../scripts/foundation-scripts.js"></script>
   <!-- endbower -->
   <!-- endbuild -->
@@ -172,11 +212,15 @@
   
 <script src="../../scripts/leaflet.js"></script>
 <script src="../../scripts/leaflet.ajax.min.js"></script>
+<script src="../../scripts/spin.min.js"></script>
+<script src="../../scripts/leaflet.spin.js"></script>
 <script src="../../scripts/Chart.min.js"></script>
+<script src="../../scripts/countrymap.js"></script>
 <script>
 
   // Global chart config
   Chart.defaults.global.responsive = true;
+  Chart.defaults.global.maintainAspectRatio = false;
 
   // Global Hunger Index score chart
   var context = $('#chart-score').get(0).getContext('2d');
@@ -212,7 +256,14 @@
       // https://github.com/nnnick/Chart.js/issues/499
       tooltipTemplate: function (d) {
         if (d.value === 5) { return d.label + ": <" + d.value; } 
-        if (d.value === null) { return d.label + ": No data"; }
+        if (d.value === null) { 
+          if (window.location.href.indexOf('/de') > 1) {
+            return d.label + ": Keine Angaben"; 
+          } else {
+            return d.label + ": No data"; 
+          }
+            
+        }
         return d.label + ": " + d.value;
       }
   });
@@ -248,7 +299,13 @@
         if (d.label === "2000" && false) { return d.label + ": " + d.value + ' (IFPRI estimate)'; }
         if (d.label === "2005" && false) { return d.label + ": " + d.value + ' (IFPRI estimate)'; }
         if (d.label === "2015" && false) { return d.label + ": " + d.value + ' (IFPRI estimate)'; }
-        if (d.value === null) { return d.label + ": No data"; }
+        if (d.value === null) { 
+          if (window.location.href.indexOf('/de') > 1) {
+            return d.label + ": Keine Angaben"; 
+          } else {
+            return d.label + ": No data"; 
+          }
+        }
       return d.label + ": " + d.value;
       }
   });
@@ -283,7 +340,13 @@
         if (d.label === "2000" && false) { return d.label + ": " + d.value + ' (IFPRI estimate)'; }
         if (d.label === "2005" && false) { return d.label + ": " + d.value + ' (IFPRI estimate)'; }
         if (d.label === "2015" && false) { return d.label + ": " + d.value + ' (IFPRI estimate)'; }
-        if (d.value === null) { return d.label + ": No data"; }
+        if (d.value === null) { 
+          if (window.location.href.indexOf('/de') > 1) {
+            return d.label + ": Keine Angaben"; 
+          } else {
+            return d.label + ": No data"; 
+          }
+        }
         return d.label + ": " + d.value;
       }
   });
@@ -317,8 +380,14 @@
         if (d.label === "1995" && false) { return d.label + ": " + d.value + ' (IFPRI estimate)'; }
         if (d.label === "2000" && false) { return d.label + ": " + d.value + ' (IFPRI estimate)'; }
         if (d.label === "2005" && false) { return d.label + ": " + d.value + ' (IFPRI estimate)'; }
-        if (d.label === "2015" && false) { return d.label + ": " + d.value + ' (IFPRI estimate)'; }
-        if (d.value === null) { return d.label + ": No data"; }
+        if (d.label === "2015" && false) { return d.label + ": " + d.value + ' IFPRI estimate)'; }
+        if (d.value === null) { 
+          if (window.location.href.indexOf('/de') > 1) {
+            return d.label + ": Keine Angaben"; 
+          } else {
+            return d.label + ": No data"; 
+          }
+        }
         return d.label + ": " + d.value;
       }
   });
@@ -348,7 +417,13 @@
       scaleStepWidth: 20,
       bezierCurve: false, 
       tooltipTemplate: function (d) {
-        if (d.value === null) { return d.label + ": No data"; }
+        if (d.value === null) { 
+          if (window.location.href.indexOf('/de') > 1) {
+            return d.label + ": Keine Angaben"; 
+          } else {
+            return d.label + ": No data"; 
+          }
+        }
         return d.label + ": " + d.value;
       }
   });

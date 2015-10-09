@@ -4,8 +4,10 @@
 <!--[if IE 8]>         <html class="lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html> <!--<![endif]-->
 <head>
-  <meta charset="utf-8" />
+  <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
   <title>Global Hunger Index</title>
   <meta name="description" content="Global Hunger Index 2015">
 
@@ -15,17 +17,40 @@
 
 
   <script src="../scripts/modernizr.js"></script>
+  
+  <meta property="og:url"          content="http://ghi.ifpri.org" />
+  <meta property="og:title"        content="Global Hunger Index 2015" />
+  <meta property="og:description"  content="The Global Hunger Index (GHI) is a tool designed to comprehensively measure and track hunger globally, regionally, and by country.1 Each year, the International Food Policy Research Institute (IFPRI) calculates GHI scores in order to assess progress, or the lack thereof, in decreasing hunger. The GHI is designed to raise awareness and understanding of regional and country differences in the struggle against hunger. By calling attention to the issue, we hope that the GHI will trigger action to reduce hunger around the world." />
+  <meta property="og:image"        content="http://ghi.ifpri.org/images/ghi-share.png" />
 
-  <link rel="shortcut icon" href="../images/favicon.ico">
+  <link rel="apple-touch-icon" sizes="57x57" href="../images/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="../images/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="../images/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="../images/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="../images/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="../images/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="../images/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="../images/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="../images/apple-touch-icon-180x180.png">
+  
+  <meta name="application-name" content="2015 Global Hunger Index">
+  <meta name="msapplication-TileColor" content="#333333">
+  <meta name="msapplication-TileImage" content="../images/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="icon" sizes="192x192" href="../images/android-chrome-192x192.png">
+  <link rel="icon" sizes="16x16" href="../images/favicon.ico">
 </head>
 <body>
+  <!-- For nomad URL preview -->
+  <img src="../images/ghi-share.png" class="hide">
 
   <nav class="top-bar" data-topbar role="navigation">
     <ul class="title-area">
       <li class="name">
         <h1><a href="../">
-            <img src="../images/ghi.svg" onerror="this.src='../images/ghi.png'" alt="Global Hunger Index 2015">
-            <span>Global Hunger Index 2015</span>
+            <img src="../images/ghi.svg" onerror="this.src='../images/ghi.png'" alt="2015 Global Hunger Index">
+            <span>2015 Global Hunger Index</span>
           </a></h1>
       </li>
       <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
@@ -35,14 +60,14 @@
       <ul class="right">
         <li class="has-dropdown"> <a href="#">Language</a>
           <ul class="dropdown">
-            <li class="active"><a href="#">English</a></li>
-            <li><a href="#">German</a></li>
+            <li class="active"><a href="..//">English</a></li>
+            <li><a href="../de/">German</a></li>
           </ul>
         </li>
       </ul>
       <!-- Left Nav Section -->
       <ul class="left">
-        <li><a href="../trends/">Trends of Hunger</a></li>
+        <li class="active"><a href="../trends/">Hunger Trends</a></li>
         <li><a href="../methodology/">Methodology</a></li>
         <li><a href="../results/">Results</a></li>
         <li><a href="../about/">About</a></li>
@@ -61,12 +86,12 @@
     <table id="trends-table">
       <thead>
         <tr>
-          <th>Country</th>
-          <th>Proportion of undernourished in population (in %)</th>
-          <th>Prevalence of stunting in children under five years (in %)</th>
-          <th>Prevalence of wasting in children under five years (in %)</th>
-          <th>Under five years mortality rate (in %)</th>
-          <th>Zone</th>
+          <th></th>
+          <th>Proportion of undernourished in population (%)</th>
+          <th>Prevalence of stunting in children under five years (%)</th>
+          <th>Prevalence of wasting in children under five years (%)</th>
+          <th>Under five mortality rate (%)</th>
+          <th></th>
           <th>Score</th>
         </tr>
       </thead>
@@ -92,7 +117,7 @@
       </div>
       <div class="medium-4 medium-4 columns">
         <ul class="credits">
-          <li><i class="fi-eye small"></i> <a target="_blank" href="">Source code</a></li>
+          <li><i class="fi-eye small"></i> <a target="_blank" href="https://github.com/IFPRI/Global-Hunger-Index">Source code</a></li>
           <li><i class="fi-heart small"></i> Made by <a target="_blank" href="http://jplusplus.org">Journalism++</a></li>
         </ul>
       </div>
@@ -103,7 +128,6 @@
   <!-- bower:js -->
   <script src="../scripts/jquery.js"></script>
   <script src="../scripts/foundation.min.js"></script>
-  <script src="../scripts/foundation.magellan.js"></script>
   <script src="../scripts/foundation-scripts.js"></script>
   <!-- endbower -->
   <!-- endbuild -->
