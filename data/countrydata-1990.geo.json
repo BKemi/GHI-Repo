@@ -48,6 +48,7 @@
       "type": "Feature", 
       "id": "PSE", 
       "properties": {
+        "name_de": "Pal\u00e4stinensische Autonomiegebiete", 
         "score": "nc", 
         "name": "West Bank"
       }
@@ -117,6 +118,7 @@
       "type": "Feature", 
       "id": "VUT", 
       "properties": {
+        "name_de": "Vanuatu", 
         "score": "nc", 
         "name": "Vanuatu"
       }
@@ -1946,6 +1948,7 @@
       "type": "Feature", 
       "id": "USA", 
       "properties": {
+        "name_de": "Vereinigte Staaten von Amerika", 
         "score": "nc", 
         "name": "United States of America"
       }
@@ -1997,6 +2000,7 @@
       "type": "Feature", 
       "id": "TWN", 
       "properties": {
+        "name_de": "Republik China\u00a0(Taiwan)", 
         "score": "nc", 
         "name": "Taiwan"
       }
@@ -2172,6 +2176,7 @@
       "type": "Feature", 
       "id": "SWE", 
       "properties": {
+        "name_de": "Schweden", 
         "score": "nc", 
         "name": "Sweden"
       }
@@ -2259,6 +2264,7 @@
       "type": "Feature", 
       "id": "SVN", 
       "properties": {
+        "name_de": "Slowenien", 
         "score": "nc", 
         "name": "Slovenia"
       }
@@ -2440,6 +2446,7 @@
       "type": "Feature", 
       "id": "SLB", 
       "properties": {
+        "name_de": "Salomonen", 
         "score": "nc", 
         "name": "Solomon Islands"
       }
@@ -2567,6 +2574,7 @@
       "type": "Feature", 
       "id": "ESH", 
       "properties": {
+        "name_de": "Westsahara", 
         "score": "nc", 
         "name": "Western Sahara"
       }
@@ -2714,6 +2722,7 @@
       "type": "Feature", 
       "id": "PRT", 
       "properties": {
+        "name_de": "Portugal", 
         "score": "nc", 
         "name": "Portugal"
       }
@@ -2765,6 +2774,7 @@
       "type": "Feature", 
       "id": "PRI", 
       "properties": {
+        "name_de": "Puerto Rico", 
         "score": "nc", 
         "name": "Puerto Rico"
       }
@@ -2960,6 +2970,7 @@
       "type": "Feature", 
       "id": "POL", 
       "properties": {
+        "name_de": "Polen", 
         "score": "nc", 
         "name": "Poland"
       }
@@ -3245,6 +3256,7 @@
       "type": "Feature", 
       "id": "NZL", 
       "properties": {
+        "name_de": "Neuseeland", 
         "score": "nc", 
         "name": "New Zealand"
       }
@@ -3626,6 +3638,7 @@
       "type": "Feature", 
       "id": "NOR", 
       "properties": {
+        "name_de": "Norwegen", 
         "score": "nc", 
         "name": "Norway"
       }
@@ -3697,6 +3710,7 @@
       "type": "Feature", 
       "id": "NLD", 
       "properties": {
+        "name_de": "Niederlande", 
         "score": "nc", 
         "name": "Netherlands"
       }
@@ -3764,6 +3778,7 @@
       "type": "Feature", 
       "id": "NCL", 
       "properties": {
+        "name_de": "Neukaledonien", 
         "score": "nc", 
         "name": "New Caledonia"
       }
@@ -3849,6 +3864,7 @@
       "type": "Feature", 
       "id": "MLT", 
       "properties": {
+        "name_de": "Malta", 
         "score": "nc", 
         "name": "Malta"
       }
@@ -3892,6 +3908,7 @@
       "type": "Feature", 
       "id": "LUX", 
       "properties": {
+        "name_de": "Luxemburg", 
         "score": "nc", 
         "name": "Luxembourg"
       }
@@ -4082,6 +4099,7 @@
       "type": "Feature", 
       "id": "KOR", 
       "properties": {
+        "name_de": "Korea, Republik\u00a0(S\u00fcdkorea)", 
         "score": "nc", 
         "name": "South Korea"
       }
@@ -4367,6 +4385,7 @@
       "type": "Feature", 
       "id": "JPN", 
       "properties": {
+        "name_de": "Japan", 
         "score": "nc", 
         "name": "Japan"
       }
@@ -4740,6 +4759,7 @@
       "type": "Feature", 
       "id": "ITA", 
       "properties": {
+        "name_de": "Italien", 
         "score": "nc", 
         "name": "Italy"
       }
@@ -4847,6 +4867,7 @@
       "type": "Feature", 
       "id": "ISR", 
       "properties": {
+        "name_de": "Israel", 
         "score": "nc", 
         "name": "Israel"
       }
@@ -4942,6 +4963,7 @@
       "type": "Feature", 
       "id": "ISL", 
       "properties": {
+        "name_de": "Island", 
         "score": "nc", 
         "name": "Iceland"
       }
@@ -5009,6 +5031,7 @@
       "type": "Feature", 
       "id": "IRL", 
       "properties": {
+        "name_de": "Irland", 
         "score": "nc", 
         "name": "Ireland"
       }
@@ -5148,6 +5171,7 @@
       "type": "Feature", 
       "id": "HUN", 
       "properties": {
+        "name_de": "Ungarn", 
         "score": "nc", 
         "name": "Hungary"
       }
@@ -5239,6 +5263,7 @@
       "type": "Feature", 
       "id": "GUF", 
       "properties": {
+        "name_de": "Franz\u00f6sisch-Guayana", 
         "score": "nc", 
         "name": "French Guiana"
       }
@@ -5782,6 +5807,7 @@
       "type": "Feature", 
       "id": "GRL", 
       "properties": {
+        "name_de": "Gr\u00f6nland", 
         "score": "nc", 
         "name": "Greenland"
       }
@@ -6019,6 +6045,7 @@
       "type": "Feature", 
       "id": "GRC", 
       "properties": {
+        "name_de": "Griechenland", 
         "score": "nc", 
         "name": "Greece"
       }
@@ -6062,6 +6089,7 @@
       "type": "Feature", 
       "id": "GNQ", 
       "properties": {
+        "name_de": "\u00c4quatorialguinea", 
         "score": "nc", 
         "name": "Equatorial Guinea"
       }
@@ -6307,6 +6335,7 @@
       "type": "Feature", 
       "id": "GBR", 
       "properties": {
+        "name_de": "Grossbritannien und Nordirland", 
         "score": "nc", 
         "name": "United Kingdom"
       }
@@ -6548,6 +6577,7 @@
       "type": "Feature", 
       "id": "FRA", 
       "properties": {
+        "name_de": "Frankreich", 
         "score": "nc", 
         "name": "France"
       }
@@ -6603,6 +6633,7 @@
       "type": "Feature", 
       "id": "FLK", 
       "properties": {
+        "name_de": "Falklandinseln", 
         "score": "nc", 
         "name": "Falkland Islands"
       }
@@ -6770,6 +6801,7 @@
       "type": "Feature", 
       "id": "FIN", 
       "properties": {
+        "name_de": "Finnland", 
         "score": "nc", 
         "name": "Finland"
       }
@@ -6989,6 +7021,7 @@
       "type": "Feature", 
       "id": "ESP", 
       "properties": {
+        "name_de": "Spanien", 
         "score": "nc", 
         "name": "Spain"
       }
@@ -7106,6 +7139,7 @@
       "type": "Feature", 
       "id": "DNK", 
       "properties": {
+        "name_de": "D\u00e4nemark", 
         "score": "nc", 
         "name": "Denmark"
       }
@@ -7353,6 +7387,7 @@
       "type": "Feature", 
       "id": "DEU", 
       "properties": {
+        "name_de": "Deutschland", 
         "score": "nc", 
         "name": "Germany"
       }
@@ -7508,6 +7543,7 @@
       "type": "Feature", 
       "id": "CZE", 
       "properties": {
+        "name_de": "Tschechische Republik", 
         "score": "nc", 
         "name": "Czech Republic"
       }
@@ -7583,6 +7619,7 @@
       "type": "Feature", 
       "id": "CYP", 
       "properties": {
+        "name_de": "Zypern", 
         "score": "nc", 
         "name": "Cyprus"
       }
@@ -7773,6 +7810,7 @@
       "type": "Feature", 
       "id": "CHE", 
       "properties": {
+        "name_de": "Schweiz\u00a0(Confoederatio Helvetica)", 
         "score": "nc", 
         "name": "Switzerland"
       }
@@ -11086,6 +11124,7 @@
       "type": "Feature", 
       "id": "CAN", 
       "properties": {
+        "name_de": "Kanada", 
         "score": "nc", 
         "name": "Canada"
       }
@@ -11133,6 +11172,7 @@
       "type": "Feature", 
       "id": "BRN", 
       "properties": {
+        "name_de": "Brunei Darussalam", 
         "score": "nc", 
         "name": "Brunei"
       }
@@ -11492,6 +11532,7 @@
       "type": "Feature", 
       "id": "BMU", 
       "properties": {
+        "name_de": "Bermuda", 
         "score": "nc", 
         "name": "Bermuda"
       }
@@ -11587,6 +11628,7 @@
       "type": "Feature", 
       "id": "BLZ", 
       "properties": {
+        "name_de": "Belize", 
         "score": "nc", 
         "name": "Belize"
       }
@@ -11696,6 +11738,7 @@
       "type": "Feature", 
       "id": "BHS", 
       "properties": {
+        "name_de": "Bahamas", 
         "score": "nc", 
         "name": "The Bahamas"
       }
@@ -11771,6 +11814,7 @@
       "type": "Feature", 
       "id": "BEL", 
       "properties": {
+        "name_de": "Belgien", 
         "score": "nc", 
         "name": "Belgium"
       }
@@ -11934,6 +11978,7 @@
       "type": "Feature", 
       "id": "AUT", 
       "properties": {
+        "name_de": "\u00d6sterreich", 
         "score": "nc", 
         "name": "Austria"
       }
@@ -12919,6 +12964,7 @@
       "type": "Feature", 
       "id": "AUS", 
       "properties": {
+        "name_de": "Australien", 
         "score": "nc", 
         "name": "Australia"
       }
@@ -12970,6 +13016,7 @@
       "type": "Feature", 
       "id": "ATF", 
       "properties": {
+        "name_de": "Franz\u00f6sische S\u00fcd- und Antarktisgebiete", 
         "score": "nc", 
         "name": "French Southern and Antarctic Lands"
       }
@@ -15647,6 +15694,7 @@
       "type": "Feature", 
       "id": "ATA", 
       "properties": {
+        "name_de": "Antarktika", 
         "score": "nc", 
         "name": "Antarctica"
       }
@@ -15750,6 +15798,7 @@
       "type": "Feature", 
       "id": "ARE", 
       "properties": {
+        "name_de": "Vereinigte Arabische Emirate", 
         "score": "nc", 
         "name": "United Arab Emirates"
       }
@@ -15981,6 +16030,7 @@
       "type": "Feature", 
       "id": "UZB", 
       "properties": {
+        "name_de": "Usbekistan", 
         "score": "-", 
         "name": "Uzbekistan"
       }
@@ -16388,6 +16438,7 @@
       "type": "Feature", 
       "id": "UKR", 
       "properties": {
+        "name_de": "Ukraine", 
         "score": "-", 
         "name": "Ukraine"
       }
@@ -16447,6 +16498,7 @@
       "type": "Feature", 
       "id": "TLS", 
       "properties": {
+        "name_de": "Osttimor", 
         "score": "-", 
         "name": "Timor-Leste"
       }
@@ -16678,6 +16730,7 @@
       "type": "Feature", 
       "id": "TKM", 
       "properties": {
+        "name_de": "Turkmenistan", 
         "score": "-", 
         "name": "Turkmenistan"
       }
@@ -16857,6 +16910,7 @@
       "type": "Feature", 
       "id": "TJK", 
       "properties": {
+        "name_de": "Tadschikistan", 
         "score": "-", 
         "name": "Tajikistan"
       }
@@ -16980,6 +17034,7 @@
       "type": "Feature", 
       "id": "SYR", 
       "properties": {
+        "name_de": "Syrien, Arabische Republik", 
         "score": "-", 
         "name": "Syrian Arab Republic"
       }
@@ -17127,6 +17182,7 @@
       "type": "Feature", 
       "id": "SVK", 
       "properties": {
+        "name_de": "Slowakei", 
         "score": "-", 
         "name": "Slovak Republic"
       }
@@ -17326,6 +17382,7 @@
       "type": "Feature", 
       "id": "SRB", 
       "properties": {
+        "name_de": "Serbien", 
         "score": "-", 
         "name": "Serbia"
       }
@@ -17485,6 +17542,7 @@
       "type": "Feature", 
       "id": "SOM", 
       "properties": {
+        "name_de": "Somalia", 
         "score": "-", 
         "name": "Somalia"
       }
@@ -17752,6 +17810,7 @@
       "type": "Feature", 
       "id": "SSD", 
       "properties": {
+        "name_de": "S\u00fcdsudan", 
         "score": "-", 
         "name": "South Sudan"
       }
@@ -18083,6 +18142,7 @@
       "type": "Feature", 
       "id": "SDN", 
       "properties": {
+        "name_de": "Sudan", 
         "score": "-", 
         "name": "Sudan"
       }
@@ -20540,6 +20600,7 @@
       "type": "Feature", 
       "id": "RUS", 
       "properties": {
+        "name_de": "Russische F\u00f6deration", 
         "score": "-", 
         "name": "Russian Federation"
       }
@@ -20591,6 +20652,7 @@
       "type": "Feature", 
       "id": "QAT", 
       "properties": {
+        "name_de": "Katar", 
         "score": "-", 
         "name": "Qatar"
       }
@@ -20944,6 +21006,7 @@
       "type": "Feature", 
       "id": "PNG", 
       "properties": {
+        "name_de": "Papua-Neuguinea", 
         "score": "-", 
         "name": "Papua New Guinea"
       }
@@ -21031,6 +21094,7 @@
       "type": "Feature", 
       "id": "MNE", 
       "properties": {
+        "name_de": "Montenegro", 
         "score": "-", 
         "name": "Montenegro"
       }
@@ -21114,6 +21178,7 @@
       "type": "Feature", 
       "id": "MKD", 
       "properties": {
+        "name_de": "Mazedonien, Ehem. Jugoslawische Republik\u00a0[2b]", 
         "score": "-", 
         "name": "Macedonia, FYR"
       }
@@ -21237,6 +21302,7 @@
       "type": "Feature", 
       "id": "MDA", 
       "properties": {
+        "name_de": "Moldawien\u00a0(Republik Moldau)", 
         "score": "-", 
         "name": "Moldova"
       }
@@ -21340,6 +21406,7 @@
       "type": "Feature", 
       "id": "LVA", 
       "properties": {
+        "name_de": "Lettland", 
         "score": "-", 
         "name": "Latvia"
       }
@@ -21431,6 +21498,7 @@
       "type": "Feature", 
       "id": "LTU", 
       "properties": {
+        "name_de": "Litauen", 
         "score": "-", 
         "name": "Lithuania"
       }
@@ -21670,6 +21738,7 @@
       "type": "Feature", 
       "id": "LBY", 
       "properties": {
+        "name_de": "Libysch-Arabische Dschamahirija\u00a0(Libyen)", 
         "score": "-", 
         "name": "Libya"
       }
@@ -21825,6 +21894,7 @@
       "type": "Feature", 
       "id": "KGZ", 
       "properties": {
+        "name_de": "Kirgisistan", 
         "score": "-", 
         "name": "Kyrgyz Republic"
       }
@@ -22288,6 +22358,7 @@
       "type": "Feature", 
       "id": "KAZ", 
       "properties": {
+        "name_de": "Kasachstan", 
         "score": "-", 
         "name": "Kazakhstan"
       }
@@ -22471,6 +22542,7 @@
       "type": "Feature", 
       "id": "HRV", 
       "properties": {
+        "name_de": "Kroatien", 
         "score": "-", 
         "name": "Croatia"
       }
@@ -22582,6 +22654,7 @@
       "type": "Feature", 
       "id": "GEO", 
       "properties": {
+        "name_de": "Georgien", 
         "score": "-", 
         "name": "Georgia"
       }
@@ -22665,6 +22738,7 @@
       "type": "Feature", 
       "id": "EST", 
       "properties": {
+        "name_de": "Estland", 
         "score": "-", 
         "name": "Estonia"
       }
@@ -22792,6 +22866,7 @@
       "type": "Feature", 
       "id": "ERI", 
       "properties": {
+        "name_de": "Eritrea", 
         "score": "-", 
         "name": "Eritrea"
       }
@@ -23295,6 +23370,7 @@
       "type": "Feature", 
       "id": "COD", 
       "properties": {
+        "name_de": "Kongo, Demokratische Republik\u00a0(Ehem. Zaire)", 
         "score": "-", 
         "name": "Congo, Dem. Rep."
       }
@@ -23362,6 +23438,7 @@
       "type": "Feature", 
       "id": "BTN", 
       "properties": {
+        "name_de": "Bhutan", 
         "score": "-", 
         "name": "Bhutan"
       }
@@ -23553,6 +23630,7 @@
       "type": "Feature", 
       "id": "BLR", 
       "properties": {
+        "name_de": "Belarus\u00a0(Weissrussland)", 
         "score": "-", 
         "name": "Belarus"
       }
@@ -23656,6 +23734,7 @@
       "type": "Feature", 
       "id": "BIH", 
       "properties": {
+        "name_de": "Bosnien und Herzegowina", 
         "score": "-", 
         "name": "Bosnia & Herzegovina"
       }
@@ -23723,6 +23802,7 @@
       "type": "Feature", 
       "id": "BDI", 
       "properties": {
+        "name_de": "Burundi", 
         "score": "-", 
         "name": "Burundi"
       }
@@ -23920,6 +24000,7 @@
       "type": "Feature", 
       "id": "AZE", 
       "properties": {
+        "name_de": "Aserbaidschan", 
         "score": "-", 
         "name": "Azerbaijan"
       }
@@ -24015,6 +24096,7 @@
       "type": "Feature", 
       "id": "ARM", 
       "properties": {
+        "name_de": "Armenien", 
         "score": "-", 
         "name": "Armenia"
       }
@@ -24266,6 +24348,7 @@
       "type": "Feature", 
       "id": "ETH", 
       "properties": {
+        "name_de": "\u00c4thiopien", 
         "score": 71.7, 
         "name": "Ethiopia"
       }
@@ -24587,6 +24670,7 @@
       "type": "Feature", 
       "id": "AGO", 
       "properties": {
+        "name_de": "Angola", 
         "score": 67.3, 
         "name": "Angola"
       }
@@ -24834,6 +24918,7 @@
       "type": "Feature", 
       "id": "TCD", 
       "properties": {
+        "name_de": "Tschad", 
         "score": 65.0, 
         "name": "Chad"
       }
@@ -25081,6 +25166,7 @@
       "type": "Feature", 
       "id": "NER", 
       "properties": {
+        "name_de": "Niger", 
         "score": 64.7, 
         "name": "Niger"
       }
@@ -25404,6 +25490,7 @@
       "type": "Feature", 
       "id": "MOZ", 
       "properties": {
+        "name_de": "Mosambik", 
         "score": 64.5, 
         "name": "Mozambique"
       }
@@ -25531,6 +25618,7 @@
       "type": "Feature", 
       "id": "MWI", 
       "properties": {
+        "name_de": "Malawi", 
         "score": 58.9, 
         "name": "Malawi"
       }
@@ -25634,6 +25722,7 @@
       "type": "Feature", 
       "id": "SLE", 
       "properties": {
+        "name_de": "Sierra Leone", 
         "score": 58.8, 
         "name": "Sierra Leone"
       }
@@ -25929,6 +26018,7 @@
       "type": "Feature", 
       "id": "MMR", 
       "properties": {
+        "name_de": "Myanmar\u00a0(Burma)", 
         "score": 56.3, 
         "name": "Myanmar"
       }
@@ -26004,6 +26094,7 @@
       "type": "Feature", 
       "id": "DJI", 
       "properties": {
+        "name_de": "Dschibuti", 
         "score": 56.1, 
         "name": "Djibouti"
       }
@@ -26127,6 +26218,7 @@
       "type": "Feature", 
       "id": "LBR", 
       "properties": {
+        "name_de": "Liberia", 
         "score": 54.4, 
         "name": "Liberia"
       }
@@ -26194,6 +26286,7 @@
       "type": "Feature", 
       "id": "RWA", 
       "properties": {
+        "name_de": "Ruanda", 
         "score": 53.9, 
         "name": "Rwanda"
       }
@@ -26365,6 +26458,7 @@
       "type": "Feature", 
       "id": "BFA", 
       "properties": {
+        "name_de": "Burkina Faso", 
         "score": 53.0, 
         "name": "Burkina Faso"
       }
@@ -26528,6 +26622,7 @@
       "type": "Feature", 
       "id": "LAO", 
       "properties": {
+        "name_de": "Laos, Demokratische Volksrepublik", 
         "score": 52.9, 
         "name": "Lao PDR"
       }
@@ -26687,6 +26782,7 @@
       "type": "Feature", 
       "id": "BGD", 
       "properties": {
+        "name_de": "Bangladesch", 
         "score": 52.2, 
         "name": "Bangladesh"
       }
@@ -26786,6 +26882,7 @@
       "type": "Feature", 
       "id": "HTI", 
       "properties": {
+        "name_de": "Haiti", 
         "score": 52.1, 
         "name": "Haiti"
       }
@@ -27105,6 +27202,7 @@
       "type": "Feature", 
       "id": "MLI", 
       "properties": {
+        "name_de": "Mali", 
         "score": 51.9, 
         "name": "Mali"
       }
@@ -27368,6 +27466,7 @@
       "type": "Feature", 
       "id": "CAF", 
       "properties": {
+        "name_de": "Zentralafrikanische Republik", 
         "score": 51.9, 
         "name": "Central African Republic"
       }
@@ -27927,6 +28026,7 @@
       "type": "Feature", 
       "id": "IND", 
       "properties": {
+        "name_de": "Indien", 
         "score": 48.1, 
         "name": "India"
       }
@@ -28222,6 +28322,7 @@
       "type": "Feature", 
       "id": "GIN", 
       "properties": {
+        "name_de": "Guinea", 
         "score": 47.8, 
         "name": "Guinea"
       }
@@ -28469,6 +28570,7 @@
       "type": "Feature", 
       "id": "NGA", 
       "properties": {
+        "name_de": "Nigeria", 
         "score": 47.7, 
         "name": "Nigeria"
       }
@@ -28760,6 +28862,7 @@
       "type": "Feature", 
       "id": "AFG", 
       "properties": {
+        "name_de": "Afghanistan", 
         "score": 47.4, 
         "name": "Afghanistan"
       }
@@ -29019,6 +29122,7 @@
       "type": "Feature", 
       "id": "ZMB", 
       "properties": {
+        "name_de": "Sambia", 
         "score": 47.0, 
         "name": "Zambia"
       }
@@ -29102,6 +29206,7 @@
       "type": "Feature", 
       "id": "KHM", 
       "properties": {
+        "name_de": "Kambodscha", 
         "score": 46.9, 
         "name": "Cambodia"
       }
@@ -29193,6 +29298,7 @@
       "type": "Feature", 
       "id": "GNB", 
       "properties": {
+        "name_de": "Guinea-Bissau", 
         "score": 46.1, 
         "name": "Guinea-Bissau"
       }
@@ -29308,6 +29414,7 @@
       "type": "Feature", 
       "id": "BEN", 
       "properties": {
+        "name_de": "Benin", 
         "score": 46.1, 
         "name": "Benin"
       }
@@ -29423,6 +29530,7 @@
       "type": "Feature", 
       "id": "GHA", 
       "properties": {
+        "name_de": "Ghana", 
         "score": 45.7, 
         "name": "Ghana"
       }
@@ -29634,6 +29742,7 @@
       "type": "Feature", 
       "id": "MDG", 
       "properties": {
+        "name_de": "Madagaskar", 
         "score": 44.8, 
         "name": "Madagascar"
       }
@@ -29825,6 +29934,7 @@
       "type": "Feature", 
       "id": "VNM", 
       "properties": {
+        "name_de": "Vietnam", 
         "score": 44.6, 
         "name": "Vietnam"
       }
@@ -29932,6 +30042,7 @@
       "type": "Feature", 
       "id": "NPL", 
       "properties": {
+        "name_de": "Nepal", 
         "score": 44.5, 
         "name": "Nepal"
       }
@@ -30123,6 +30234,7 @@
       "type": "Feature", 
       "id": "YEM", 
       "properties": {
+        "name_de": "Jemen", 
         "score": 44.4, 
         "name": "Yemen, Rep."
       }
@@ -30402,6 +30514,7 @@
       "type": "Feature", 
       "id": "PAK", 
       "properties": {
+        "name_de": "Pakistan", 
         "score": 43.6, 
         "name": "Pakistan"
       }
@@ -30493,6 +30606,7 @@
       "type": "Feature", 
       "id": "TGO", 
       "properties": {
+        "name_de": "Togo", 
         "score": 42.5, 
         "name": "Togo"
       }
@@ -30704,6 +30818,7 @@
       "type": "Feature", 
       "id": "TZA", 
       "properties": {
+        "name_de": "Tansania, Vereinigte Republik", 
         "score": 42.2, 
         "name": "Tanzania"
       }
@@ -30875,6 +30990,7 @@
       "type": "Feature", 
       "id": "MRT", 
       "properties": {
+        "name_de": "Mauretanien", 
         "score": 40.0, 
         "name": "Mauritania"
       }
@@ -30998,6 +31114,7 @@
       "type": "Feature", 
       "id": "UGA", 
       "properties": {
+        "name_de": "Uganda", 
         "score": 39.8, 
         "name": "Uganda"
       }
@@ -31257,6 +31374,7 @@
       "type": "Feature", 
       "id": "CMR", 
       "properties": {
+        "name_de": "Kamerun", 
         "score": 39.8, 
         "name": "Cameroon"
       }
@@ -31468,6 +31586,7 @@
       "type": "Feature", 
       "id": "COG", 
       "properties": {
+        "name_de": "Republik Kongo", 
         "score": 38.9, 
         "name": "Congo, Rep."
       }
@@ -31723,6 +31842,7 @@
       "type": "Feature", 
       "id": "BOL", 
       "properties": {
+        "name_de": "Bolivien", 
         "score": 38.9, 
         "name": "Bolivia"
       }
@@ -31946,6 +32066,7 @@
       "type": "Feature", 
       "id": "NIC", 
       "properties": {
+        "name_de": "Nicaragua", 
         "score": 38.3, 
         "name": "Nicaragua"
       }
@@ -32137,6 +32258,7 @@
       "type": "Feature", 
       "id": "SEN", 
       "properties": {
+        "name_de": "Senegal", 
         "score": 36.8, 
         "name": "Senegal"
       }
@@ -32216,6 +32338,7 @@
       "type": "Feature", 
       "id": "GMB", 
       "properties": {
+        "name_de": "Gambia", 
         "score": 36.4, 
         "name": "Gambia, The"
       }
@@ -32407,6 +32530,7 @@
       "type": "Feature", 
       "id": "NAM", 
       "properties": {
+        "name_de": "Namibia", 
         "score": 35.8, 
         "name": "Namibia"
       }
@@ -32570,6 +32694,7 @@
       "type": "Feature", 
       "id": "KEN", 
       "properties": {
+        "name_de": "Kenia", 
         "score": 34.8, 
         "name": "Kenya"
       }
@@ -33635,6 +33760,7 @@
       "type": "Feature", 
       "id": "IDN", 
       "properties": {
+        "name_de": "Indonesien", 
         "score": 34.8, 
         "name": "Indonesia"
       }
@@ -33834,6 +33960,7 @@
       "type": "Feature", 
       "id": "CIV", 
       "properties": {
+        "name_de": "C\u00f4te D'ivoire\u00a0(Elfenbeink\u00fcste)", 
         "score": 33.8, 
         "name": "C\u00f4te d'Ivoire"
       }
@@ -33997,6 +34124,7 @@
       "type": "Feature", 
       "id": "ZWE", 
       "properties": {
+        "name_de": "Simbabwe", 
         "score": 33.3, 
         "name": "Zimbabwe"
       }
@@ -34312,6 +34440,7 @@
       "type": "Feature", 
       "id": "MNG", 
       "properties": {
+        "name_de": "Mongolei", 
         "score": 32.0, 
         "name": "Mongolia"
       }
@@ -34367,6 +34496,7 @@
       "type": "Feature", 
       "id": "LKA", 
       "properties": {
+        "name_de": "Sri Lanka", 
         "score": 31.3, 
         "name": "Sri Lanka"
       }
@@ -34542,6 +34672,7 @@
       "type": "Feature", 
       "id": "BWA", 
       "properties": {
+        "name_de": "Botswana", 
         "score": 31.3, 
         "name": "Botswana"
       }
@@ -35023,6 +35154,7 @@
       "type": "Feature", 
       "id": "PHL", 
       "properties": {
+        "name_de": "Philippinen", 
         "score": 30.7, 
         "name": "Philippines"
       }
@@ -35342,6 +35474,7 @@
       "type": "Feature", 
       "id": "PER", 
       "properties": {
+        "name_de": "Peru", 
         "score": 30.7, 
         "name": "Peru"
       }
@@ -35529,6 +35662,7 @@
       "type": "Feature", 
       "id": "PRK", 
       "properties": {
+        "name_de": "Korea, Demokratische Volksrepublik\u00a0(Nordkorea)", 
         "score": 30.1, 
         "name": "North Korea"
       }
@@ -35684,6 +35818,7 @@
       "type": "Feature", 
       "id": "GTM", 
       "properties": {
+        "name_de": "Guatemala", 
         "score": 28.8, 
         "name": "Guatemala"
       }
@@ -35955,6 +36090,7 @@
       "type": "Feature", 
       "id": "THA", 
       "properties": {
+        "name_de": "Thailand", 
         "score": 28.4, 
         "name": "Thailand"
       }
@@ -36198,6 +36334,7 @@
       "type": "Feature", 
       "id": "HND", 
       "properties": {
+        "name_de": "Honduras", 
         "score": 26.5, 
         "name": "Honduras"
       }
@@ -36317,6 +36454,7 @@
       "type": "Feature", 
       "id": "DOM", 
       "properties": {
+        "name_de": "Dominikanische Republik", 
         "score": 26.3, 
         "name": "Dominican Republic"
       }
@@ -36380,6 +36518,7 @@
       "type": "Feature", 
       "id": "LSO", 
       "properties": {
+        "name_de": "Lesotho", 
         "score": 25.8, 
         "name": "Lesotho"
       }
@@ -36555,6 +36694,7 @@
       "type": "Feature", 
       "id": "GUY", 
       "properties": {
+        "name_de": "Guyana", 
         "score": 25.4, 
         "name": "Guyana"
       }
@@ -37536,6 +37676,7 @@
       "type": "Feature", 
       "id": "CHN", 
       "properties": {
+        "name_de": "China, Volksrepublik", 
         "score": 25.1, 
         "name": "China"
       }
@@ -37587,6 +37728,7 @@
       "type": "Feature", 
       "id": "KWT", 
       "properties": {
+        "name_de": "Kuwait", 
         "score": 24.3, 
         "name": "Kuwait"
       }
@@ -37734,6 +37876,7 @@
       "type": "Feature", 
       "id": "ECU", 
       "properties": {
+        "name_de": "Ecuador", 
         "score": 23.8, 
         "name": "Ecuador"
       }
@@ -37873,6 +38016,7 @@
       "type": "Feature", 
       "id": "GAB", 
       "properties": {
+        "name_de": "Gabun", 
         "score": 23.2, 
         "name": "Gabon"
       }
@@ -37932,6 +38076,7 @@
       "type": "Feature", 
       "id": "SWZ", 
       "properties": {
+        "name_de": "Swasiland", 
         "score": 22.8, 
         "name": "Swaziland"
       }
@@ -38027,6 +38172,7 @@
       "type": "Feature", 
       "id": "SLV", 
       "properties": {
+        "name_de": "El Salvador", 
         "score": 22.4, 
         "name": "El Salvador"
       }
@@ -38250,6 +38396,7 @@
       "type": "Feature", 
       "id": "PAN", 
       "properties": {
+        "name_de": "Panama", 
         "score": 21.5, 
         "name": "Panama"
       }
@@ -38353,6 +38500,7 @@
       "type": "Feature", 
       "id": "ALB", 
       "properties": {
+        "name_de": "Albanien", 
         "score": 21.4, 
         "name": "Albania"
       }
@@ -38536,6 +38684,7 @@
       "type": "Feature", 
       "id": "EGY", 
       "properties": {
+        "name_de": "\u00c4gypten", 
         "score": 20.5, 
         "name": "Egypt, Arab Rep."
       }
@@ -38805,6 +38954,7 @@
       "type": "Feature", 
       "id": "MYS", 
       "properties": {
+        "name_de": "Malaysia", 
         "score": 20.4, 
         "name": "Malaysia"
       }
@@ -39014,6 +39164,7 @@
       "type": "Feature", 
       "id": "OMN", 
       "properties": {
+        "name_de": "Oman", 
         "score": 20.1, 
         "name": "Oman"
       }
@@ -39407,6 +39558,7 @@
       "type": "Feature", 
       "id": "ZAF", 
       "properties": {
+        "name_de": "S\u00fcdafrika", 
         "score": 18.7, 
         "name": "South Africa"
       }
@@ -39678,6 +39830,7 @@
       "type": "Feature", 
       "id": "MAR", 
       "properties": {
+        "name_de": "Marokko", 
         "score": 18.7, 
         "name": "Morocco"
       }
@@ -39797,6 +39950,7 @@
       "type": "Feature", 
       "id": "SUR", 
       "properties": {
+        "name_de": "Suriname", 
         "score": 18.5, 
         "name": "Suriname"
       }
@@ -40112,6 +40266,7 @@
       "type": "Feature", 
       "id": "IRN", 
       "properties": {
+        "name_de": "Iran, Islamische Republik", 
         "score": 18.5, 
         "name": "Iran, Islamic Rep."
       }
@@ -40939,6 +41094,7 @@
       "type": "Feature", 
       "id": "BRA", 
       "properties": {
+        "name_de": "Brasilien", 
         "score": 18.2, 
         "name": "Brazil"
       }
@@ -41074,6 +41230,7 @@
       "type": "Feature", 
       "id": "IRQ", 
       "properties": {
+        "name_de": "Irak", 
         "score": 17.4, 
         "name": "Iraq"
       }
@@ -41221,6 +41378,7 @@
       "type": "Feature", 
       "id": "PRY", 
       "properties": {
+        "name_de": "Paraguay", 
         "score": 17.2, 
         "name": "Paraguay"
       }
@@ -41484,6 +41642,7 @@
       "type": "Feature", 
       "id": "DZA", 
       "properties": {
+        "name_de": "Algerien", 
         "score": 17.1, 
         "name": "Algeria"
       }
@@ -42179,6 +42338,7 @@
       "type": "Feature", 
       "id": "MEX", 
       "properties": {
+        "name_de": "Mexiko", 
         "score": 16.8, 
         "name": "Mexico"
       }
@@ -42594,6 +42754,7 @@
       "type": "Feature", 
       "id": "COL", 
       "properties": {
+        "name_de": "Kolumbien", 
         "score": 16.7, 
         "name": "Colombia"
       }
@@ -42977,6 +43138,7 @@
       "type": "Feature", 
       "id": "VEN", 
       "properties": {
+        "name_de": "Venezuela", 
         "score": 16.3, 
         "name": "Venezuela, RB"
       }
@@ -43296,6 +43458,7 @@
       "type": "Feature", 
       "id": "SAU", 
       "properties": {
+        "name_de": "Saudi-Arabien", 
         "score": 15.8, 
         "name": "Saudi Arabia"
       }
@@ -43585,6 +43748,7 @@
       "type": "Feature", 
       "id": "TUR", 
       "properties": {
+        "name_de": "T\u00fcrkei", 
         "score": 14.5, 
         "name": "Turkey"
       }
@@ -43632,6 +43796,7 @@
       "type": "Feature", 
       "id": "TTO", 
       "properties": {
+        "name_de": "Trinidad und Tobago", 
         "score": 13.7, 
         "name": "Trinidad & Tobago"
       }
@@ -43723,6 +43888,7 @@
       "type": "Feature", 
       "id": "JOR", 
       "properties": {
+        "name_de": "Jordanien", 
         "score": 12.8, 
         "name": "Jordan"
       }
@@ -43782,6 +43948,7 @@
       "type": "Feature", 
       "id": "JAM", 
       "properties": {
+        "name_de": "Jamaika", 
         "score": 12.5, 
         "name": "Jamaica"
       }
@@ -43895,6 +44062,7 @@
       "type": "Feature", 
       "id": "FJI", 
       "properties": {
+        "name_de": "Fidschi", 
         "score": 12.5, 
         "name": "Fiji"
       }
@@ -43994,6 +44162,7 @@
       "type": "Feature", 
       "id": "URY", 
       "properties": {
+        "name_de": "Uruguay", 
         "score": 12.2, 
         "name": "Uruguay"
       }
@@ -44053,6 +44222,7 @@
       "type": "Feature", 
       "id": "LBN", 
       "properties": {
+        "name_de": "Libanon", 
         "score": 12.1, 
         "name": "Lebanon"
       }
@@ -44192,6 +44362,7 @@
       "type": "Feature", 
       "id": "TUN", 
       "properties": {
+        "name_de": "Tunesien", 
         "score": 11.5, 
         "name": "Tunisia"
       }
@@ -44383,6 +44554,7 @@
       "type": "Feature", 
       "id": "ROU", 
       "properties": {
+        "name_de": "Rum\u00e4nien", 
         "score": 9.1, 
         "name": "Romania"
       }
@@ -44510,6 +44682,7 @@
       "type": "Feature", 
       "id": "BGR", 
       "properties": {
+        "name_de": "Bulgarien", 
         "score": 8.1, 
         "name": "Bulgaria"
       }
@@ -44693,6 +44866,7 @@
       "type": "Feature", 
       "id": "CUB", 
       "properties": {
+        "name_de": "Kuba", 
         "score": 8.0, 
         "name": "Cuba"
       }
@@ -45198,6 +45372,7 @@
       "type": "Feature", 
       "id": "ARG", 
       "properties": {
+        "name_de": "Argentinien", 
         "score": 7.7, 
         "name": "Argentina"
       }
@@ -45357,6 +45532,7 @@
       "type": "Feature", 
       "id": "CRI", 
       "properties": {
+        "name_de": "Costa Rica", 
         "score": 7.5, 
         "name": "Costa Rica"
       }
@@ -45834,6 +46010,7 @@
       "type": "Feature", 
       "id": "CHL", 
       "properties": {
+        "name_de": "Chile", 
         "score": 6.8, 
         "name": "Chile"
       }
