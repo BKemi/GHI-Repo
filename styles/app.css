@@ -6359,6 +6359,7 @@ body {
       height: 463px; }
 
 .table-wrapper #table-container {
+  height: 100%;
   overflow-y: scroll;
   border-top: 1px solid #ccc; }
   .table-wrapper #table-container #country-table {
@@ -6604,8 +6605,8 @@ body {
     #country-info .chart-wrapper #chart-wasting,
     #country-info .chart-wrapper #chart-stunting,
     #country-info .chart-wrapper #chart-mortality {
-      padding: 0 4rem 0 0;
-      height: 250px !important; }
+      box-sizing: border-box;
+      padding-right: 1rem; }
 
 #country-info.extra-alarming em.severity,
 #country-info.extra-alarming #detailed-score tbody td {
@@ -6740,6 +6741,12 @@ body {
 #embed-map {
   height: 100%;
   position: relative; }
+  #embed-map .table-wrapper {
+    height: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden; }
+    #embed-map .table-wrapper #table-container {
+      height: 100%; }
   #embed-map .map-wrapper {
     height: 100%;
     position: relative; }
