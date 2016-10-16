@@ -45,7 +45,7 @@
     {
       "undernourished": "1.7*", 
       "stunting": "7.1", 
-      "zone": "SA", 
+      "zone": "SouthA", 
       "wasting": "1.6", 
       "country": {
         "name_de": "Argentinien", 
@@ -199,7 +199,7 @@
     {
       "undernourished": "35.9", 
       "stunting": "37.1", 
-      "zone": "SA", 
+      "zone": "SouthA", 
       "wasting": "3.6", 
       "country": {
         "name_de": "Bolivien", 
@@ -213,7 +213,7 @@
     {
       "undernourished": "14.3", 
       "stunting": "14.2*", 
-      "zone": "SA", 
+      "zone": "SouthA", 
       "wasting": "2.7*", 
       "country": {
         "name_de": "Brasilien", 
@@ -269,7 +269,7 @@
     {
       "undernourished": "8.1", 
       "stunting": "4.2", 
-      "zone": "SA", 
+      "zone": "SouthA", 
       "wasting": "0.5", 
       "country": {
         "name_de": "Chile", 
@@ -353,7 +353,7 @@
     {
       "undernourished": "13.8", 
       "stunting": "22.4*", 
-      "zone": "SA", 
+      "zone": "SouthA", 
       "wasting": "1.6*", 
       "country": {
         "name_de": "Kolumbien", 
@@ -451,7 +451,7 @@
     {
       "undernourished": "19.4", 
       "stunting": "37.3*", 
-      "zone": "SA", 
+      "zone": "SouthA", 
       "wasting": "3*", 
       "country": {
         "name_de": "Ecuador", 
@@ -633,7 +633,7 @@
     {
       "undernourished": "22", 
       "stunting": "18.4*", 
-      "zone": "SA", 
+      "zone": "SouthA", 
       "wasting": "9.2*", 
       "country": {
         "name_de": "Guyana", 
@@ -1263,7 +1263,7 @@
     {
       "undernourished": "28.1", 
       "stunting": "37.3", 
-      "zone": "SA", 
+      "zone": "SouthA", 
       "wasting": "1.9", 
       "country": {
         "name_de": "Peru", 
@@ -1319,7 +1319,7 @@
     {
       "undernourished": "19.9", 
       "stunting": "18.3", 
-      "zone": "SA", 
+      "zone": "SouthA", 
       "wasting": "0.6", 
       "country": {
         "name_de": "Paraguay", 
@@ -1501,7 +1501,7 @@
     {
       "undernourished": "14.5", 
       "stunting": "14*", 
-      "zone": "SA", 
+      "zone": "SouthA", 
       "wasting": "7*", 
       "country": {
         "name_de": "Suriname", 
@@ -1641,7 +1641,7 @@
     {
       "undernourished": "13.2", 
       "stunting": "8*", 
-      "zone": "SA", 
+      "zone": "SouthA", 
       "wasting": "6.6*", 
       "country": {
         "name_de": "Trinidad und Tobago", 
@@ -1725,7 +1725,7 @@
     {
       "undernourished": "6.4", 
       "stunting": "15.7*", 
-      "zone": "SA", 
+      "zone": "SouthA", 
       "wasting": "2.7*", 
       "country": {
         "name_de": "Uruguay", 
@@ -1753,7 +1753,7 @@
     {
       "undernourished": "13.2", 
       "stunting": "18.3", 
-      "zone": "SA", 
+      "zone": "SouthA", 
       "wasting": "4.3", 
       "country": {
         "name_de": "Venezuela", 
