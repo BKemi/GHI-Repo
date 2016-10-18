@@ -95,7 +95,7 @@
         "id": "BDI"
       }, 
       "score": "-", 
-      "DT_RowClass": "no-data", 
+      "DT_RowClass": "no-data-sig-concern", 
       "mortality": "17.4"
     }, 
     {
@@ -333,7 +333,7 @@
         "id": "COD"
       }, 
       "score": "-", 
-      "DT_RowClass": "no-data", 
+      "DT_RowClass": "no-data-sig-concern", 
       "mortality": "18.2"
     }, 
     {
@@ -375,7 +375,7 @@
         "id": "COM"
       }, 
       "score": "-", 
-      "DT_RowClass": "no-data", 
+      "DT_RowClass": "no-data-sig-concern", 
       "mortality": "11.7"
     }, 
     {
@@ -487,7 +487,7 @@
         "id": "ERI"
       }, 
       "score": "-", 
-      "DT_RowClass": "no-data", 
+      "DT_RowClass": "no-data-sig-concern", 
       "mortality": "-"
     }, 
     {
@@ -893,7 +893,7 @@
         "id": "LBY"
       }, 
       "score": "-", 
-      "DT_RowClass": "no-data", 
+      "DT_RowClass": "no-data-sig-concern", 
       "mortality": "3.8"
     }, 
     {
@@ -1299,7 +1299,7 @@
         "id": "PNG"
       }, 
       "score": "-", 
-      "DT_RowClass": "no-data", 
+      "DT_RowClass": "no-data-sig-concern", 
       "mortality": "8.7"
     }, 
     {
@@ -1411,7 +1411,7 @@
         "id": "SDN"
       }, 
       "score": "-", 
-      "DT_RowClass": "no-data", 
+      "DT_RowClass": "no-data-sig-concern", 
       "mortality": "-"
     }, 
     {
@@ -1425,7 +1425,7 @@
         "id": "SSD"
       }, 
       "score": "-", 
-      "DT_RowClass": "no-data", 
+      "DT_RowClass": "no-data-sig-concern", 
       "mortality": "-"
     }, 
     {
@@ -1481,7 +1481,7 @@
         "id": "SOM"
       }, 
       "score": "-", 
-      "DT_RowClass": "no-data", 
+      "DT_RowClass": "no-data-sig-concern", 
       "mortality": "17.5"
     }, 
     {
@@ -1551,7 +1551,7 @@
         "id": "SYR"
       }, 
       "score": "-", 
-      "DT_RowClass": "no-data", 
+      "DT_RowClass": "no-data-sig-concern", 
       "mortality": "3.4"
     }, 
     {

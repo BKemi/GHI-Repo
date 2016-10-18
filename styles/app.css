@@ -6415,6 +6415,14 @@ th.hide-for-touch {
 */
 /* Colours
 */
+/*not working*/
+/*$nodatasg-grey: repeating-linear-gradient(
+	45deg,
+	#606dbc,
+	#606dbc 10px,
+	#465298 10px,
+	#465298 20px
+);*/
 /* Layout
 */
 body {
@@ -6502,6 +6510,9 @@ body {
       background-color: #4caf45; }
     .table-wrapper #table-container #country-table .no-data td.score span {
       background-color: #808080; }
+    .table-wrapper #table-container #country-table .no-data-sig-concern td.score span {
+      color: white;
+      background: red; }
     .table-wrapper #table-container #country-table .indust-country td.score span {
       background-color: #eaeaea; }
 
@@ -6584,7 +6595,9 @@ body {
 
 .ghi-levels {
   padding: 0.5rem 0;
-  margin: 0; }
+  margin: 0;
+  /*.no-data-sig-concern        .fi-stop { color: $nodatasg-grey; }*/
+  /*.no-data-sig-concern        .fi-stop { background-image: url('../images/insufficient.png'); background-size: 8px 8px;    background-repeat: no-repeat;  background-placement: bottom right; color:null;}*/ }
   .ghi-levels li {
     list-style-type: none;
     display: inline-block;
@@ -6615,6 +6628,11 @@ body {
     color: #4caf45; }
   .ghi-levels .no-data .fi-stop {
     color: #808080; }
+  .ghi-levels .no-data-sig-concern .fi-stop {
+    background-image: url("../images/insufficient.png");
+    background-size: 8px 8px;
+    background-repeat: no-repeat;
+    color: darkgray; }
   .ghi-levels .indust-country .fi-stop {
     color: #eaeaea; }
 
@@ -6779,6 +6797,18 @@ body {
 
 #country-info.no-data p.severity strong {
   background-color: #808080;
+  padding: 0.2rem 0.45rem;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  border-radius: 10px; }
+
+#country-info.no-data-sig-concern em.severity,
+#country-info.no-data-sig-concern #detailed-score tbody td {
+  color: red; }
+
+#country-info.no-data-sig-concern p.severity strong {
+  background-color: red;
   padding: 0.2rem 0.45rem;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -6972,10 +7002,10 @@ body {
   .ghi-levels li {
     padding-bottom: 0; }
   .ghi-levels li.extra-alarming {
-    width: 16.2857%; }
+    width: 13.2857%; }
   .ghi-levels li.indust-countries {
-    width: 15.2857%; }
+    width: 10.2857%; }
   .ghi-levels li.no-data {
-    width: 11.2857%; }
+    width: 10.2857%; }
   #home-blocks a.columns div {
     min-height: 8rem; } }

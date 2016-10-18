@@ -116,14 +116,15 @@
       <div id="map" class="map"></div>
     </div>
     <div id="map-legend" class="row">
-      <ul class="ghi-levels large-block-grid-7 medium-block-grid-4 small-block-grid-3">
+      <ul class="ghi-levels large-block-grid-8 medium-block-grid-4 small-block-grid-3">
         <li class="extra-alarming"><i class="fi-stop small"></i> Gravierend <em>&ge; 50</em></li>
         <li class="alarming"><i class="fi-stop small"></i> Sehr ernst <em>35.0-49.9</em></li>
         <li class="serious"><i class="fi-stop small"></i> Ernst <em>20.0-34.9</em></li>
         <li class="moderate"><i class="fi-stop small"></i> Mäßig  <em>10.0-19.9</em></li>
         <li class="low"><i class="fi-stop small"></i> Wenig <em>&le; 9.9</em></li>
-        <li class="no-data"><i class="fi-stop small"></i> Keine Angaben </li>
-        <li class="indust-country"><i class="fi-stop small"></i> Nicht berechnet </li>
+        <li class="no-data-sig-concern"><i class="fi-stop small"></i> Unzureichende Daten, Anlass zu erheblicher Besorgnis </li>
+		<li class="no-data"><i class="fi-stop small"></i> Unzureichende Daten </li>
+        <li class="indust-country"><i class="fi-stop small"></i> Industrieland </li>
       </ul>
     </div>
   </div>
@@ -232,7 +233,10 @@
 <script src="../scripts/leaflet.zoomin.js"></script>
 <script src="../scripts/spin.min.js"></script>
 <script src="../scripts/leaflet.spin.js"></script>
+<!-- YJ add -->
+<script src="../scripts/leaflet.pattern-src.js"></script>
 <script src="../scripts/main.js"></script>
+
 
 
   <!-- endbuild -->
